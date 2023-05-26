@@ -1,5 +1,5 @@
 {
-    "name": "JoSeHD3/wbclab",
+    "name": "josehd3/wbclab",
     "description": "Test WBC LAB",
     "require": {
         "php": ">=7.1.0"
